@@ -1,0 +1,18 @@
+/*
+Theme Name:        Narayanganj News
+Author:            WP Performance Team
+Update URI:        false
+Description:       Lightweight, text-first Bengali news theme. Editor-managed home page built from ten module blocks (lead story, top news, latest, most read, category blocks, lead + rail, section heading and more), each with photo and text-only layouts. Works on any site: settings screen in the admin menu, automatic light/dark mode, scrolling ticker, edge-cache ready.
+Version:           1.1.13
+Requires at least: 6.6
+Tested up to:      6.8
+Requires PHP:      7.4
+License:           GNU General Public License v2 or later
+License URI:       https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:       narayanganj-news
+Tags:              news, blog, grid-layout, custom-menu, featured-images, editor-style, block-patterns, translation-ready, accessibility-ready
+
+All front-end styles live in assets/css/main.css and are inlined in <head>
+(no render-blocking stylesheet request). This file only carries the theme
+header. Child themes: see README.md.
+*/
